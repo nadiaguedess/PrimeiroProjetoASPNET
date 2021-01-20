@@ -1,0 +1,6 @@
+H:\POO\PrimeiroProjetoASPNET\PrimeiroProjetoASPNET\obj\Debug\PrimeiroProjetoASPNET.csprojResolveAssemblyReference.cache
+H:\POO\PrimeiroProjetoASPNET\PrimeiroProjetoASPNET\bin\PrimeiroProjetoASPNET.dll.config
+H:\POO\PrimeiroProjetoASPNET\PrimeiroProjetoASPNET\bin\PrimeiroProjetoASPNET.dll
+H:\POO\PrimeiroProjetoASPNET\PrimeiroProjetoASPNET\bin\PrimeiroProjetoASPNET.pdb
+H:\POO\PrimeiroProjetoASPNET\PrimeiroProjetoASPNET\obj\Debug\PrimeiroProjetoASPNET.dll
+H:\POO\PrimeiroProjetoASPNET\PrimeiroProjetoASPNET\obj\Debug\PrimeiroProjetoASPNET.pdb
